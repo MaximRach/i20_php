@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+.d1{
+    background-color: rgb(220, 232, 238);
+    border: 2px solid teal;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 260px;
+}
+.data{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+.d2{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+figure{
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: white;
+}
+figcaption{
+    margin-left: 5px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.d3{
+    display: flex;
+}
+.c3{
+    font-size: 130px;
+    color: white;
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+.c1{
+    font-size: 130px;
+    color: black;
+    background-color: rgb(20, 132, 177);
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+.c2{
+    font-size: 130px;
+    color: white;
+    background-color: rgb(214, 117, 25);
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
